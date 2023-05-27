@@ -1,0 +1,9 @@
+{
+    "python.languageServer": "Pylance",
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "none",
+    "liveshare.accessibility.soundVolume": 0,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+}
